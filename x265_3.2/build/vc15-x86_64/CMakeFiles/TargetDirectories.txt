@@ -1,0 +1,11 @@
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/x265-static.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/x265-shared.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/uninstall.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/cli.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/INSTALL.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/ALL_BUILD.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/encoder/CMakeFiles/encoder.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/encoder/CMakeFiles/INSTALL.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/common/CMakeFiles/common.dir
+C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/common/CMakeFiles/INSTALL.dir

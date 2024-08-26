@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\input.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\y4m.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\yuv.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\output.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\raw.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\reconplay.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\y4m.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\yuv.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\compat\getopt\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\x265.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\input.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\y4m.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\input\yuv.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\output.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\raw.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\reconplay.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\y4m.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\output\yuv.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\compat\getopt\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\x265.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\x265cli.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\COPYING" />
+    <None Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\build\vc15-x86_64\x265.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\jnche\Desktop\jianing\git_repo\tmp\x265_3.2.tar\x265_3.2\build\vc15-x86_64\x265.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B113B24A-E9FA-3DC1-8B8D-B0D127A07EE4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{013A46B5-292B-31BF-A6BC-5E1BACA59F69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{31135596-F1CF-368C-B9B8-DEAE3C9BBBBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="output">
+      <UniqueIdentifier>{2C9A5942-2DF1-3382-B24A-06723A9E6C32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
