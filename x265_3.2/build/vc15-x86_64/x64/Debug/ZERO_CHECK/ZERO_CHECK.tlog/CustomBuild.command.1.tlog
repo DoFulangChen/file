@@ -1,0 +1,10 @@
+^C:\USERS\JNCHE\DESKTOP\JIANING\GIT_REPO\TMP\X265_3.2.TAR\X265_3.2\BUILD\VC15-X86_64\CMAKEFILES\A215D3E7262CE01EE29179FF2ACE88D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/source -BC:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jnche/Desktop/jianing/git_repo/tmp/x265_3.2.tar/x265_3.2/build/vc15-x86_64/x265.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
